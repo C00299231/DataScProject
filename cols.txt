@@ -1,0 +1,36 @@
+NAMES
+planet name
+host name
+
+SYSTEM
+no of stars
+no of planets
+no of moons
+circumbinary flag (look at later)
+
+DISCOVERY
+method
+year
+facility
+
+controversial flag
+
+PARAMETERS
+period
+semimajor axis
+earth radius
+earth mass
+mass provenance (M-R relationship causes line)
+equilibrium temp
+insolation flux
+density
+eccentricity
+
+STELLAR
+stellar effective temp
+radius
+mass
+metallicity
+surface gravity
+
+distance
